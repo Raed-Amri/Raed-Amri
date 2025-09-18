@@ -14,10 +14,13 @@ My goal is to contribute to meaningful projects while continuously learning and 
 
 ## Experience
 - **Developer Intern — Qu²Data Tunis**  
-    Built an intelligent study platform. Integrated AI for personalized questionnaires and data analysis.
+  Built an intelligent study platform. Integrated AI for personalized questionnaires and data analysis.  
 
 - **Developer Intern — Infolib Sousse**  
-    Developed an invoice management interface. Integrated with MySQL and trained users on the system.
+  Developed an invoice management interface. Integrated with MySQL and trained users on the system.  
 
-- **Developer Intern - Tunisie Telecom**
-    Exposure to enterprise IT; archiving, organization; support tasks (testing, processes).
+- **Developer Intern — Tunisie Telecom**  
+  Exposure to enterprise IT; archiving, organization; support tasks (testing, processes).  
+
+
+
