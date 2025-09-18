@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Raed Amri 👋
 
-<!--
-**Raed-Amri/Raed-Amri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architecture Engineering Student based in Tunisia
+Étudiant en ingénierie de l'architecture logicielle
 
-Here are some ideas to get you started:
+[Email](amriraed826@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raed-amri-0a14892b5/) · [GitHub](https://github.com/Raed-Amri)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+- 🚀 I build **reliable, scalable software** and enjoy **systems design** and **backend development**.
+- 🔭 Currently working on: [Your Project].
+- 🌍 Looking for **software engineering internships** in [Location] or anywhere in the world.
