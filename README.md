@@ -9,8 +9,9 @@ Software Architecture Engineering Student based in Tunisia
 ---
 
 ## About me
-I enjoy building reliable software and diving into system design, with a keen interest in AI and data analysis.
+I enjoy building reliable software and diving into system design, with a keen interest in AI and data analysis.  
 My goal is to contribute to meaningful projects while continuously learning and adapting.
+
 
 ## Experience
 - **Developer Intern — Qu²Data Tunis**  
